@@ -1,5 +1,30 @@
-# Les stations de transport en commun les plus utilisées dÎle de France 
+# Projet de datavisualisation: La Contestation sociale à la SNCF, permanence et tentative d'explication 
 
-## Carte 2021
+# Table des matères 
 
-<iframe src="https://data.ratp.fr/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ0cmFmaWMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNjZjMmE1IiwicG9zaXRpb24iOiJjZW50ZXIifV0sInhBeGlzIjoic3RhdGlvbiIsIm1heHBvaW50cyI6MjAsInNvcnQiOiJzZXJpZTEtMSIsImNvbmZpZyI6eyJkYXRhc2V0IjoidHJhZmljLWFubnVlbC1lbnRyYW50LXBhci1zdGF0aW9uLWR1LXJlc2VhdS1mZXJyZS0yMDIxIiwib3B0aW9ucyI6eyJzb3J0IjoiLXJhbmcifX0sInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="200" height="150" frameborder="0"></iframe>
+1. [Origine et traitement des des données](#1-origine-et-traitement-des-données)
+
+2. [Les Grèves à la SNCF, une habitude qui se perd ?](#2-les-grèves-à-la-SNCF)
+3. [Total des journées perdues à la SNCF par depuis 1947](#A-journées-perdues-1947)
+4. [Effectif total de la SNCF depuis 1947](#B-effectif-1947)
+5. [Journées perdues par agent de la SNCF depuis 1947](#C-journées-perdues-agent-1947)
+6. [Nombre de journées perdues par agent cumulées à la SNCF entre 1947 et 2021](#D-journées-cumulées-1947)
+
+
+
+## 1. Origine et traitement des des données
+
+
+## 2. Les Grèves à la SNCF, une habitude qui se perd ?
+
+   
+## 3. Total des journées perdues à la SNCF par depuis 1947
+
+## 4. Effectif total de la SNCF depuis 1947
+
+<iframe title="Effectif total de la SNCF depuis 1947 " aria-label="Interactive area chart" id="datawrapper-chart-UmEmY" src="https://datawrapper.dwcdn.net/UmEmY/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564" data-external="1"></iframe>
+
+
+## 5. Journées perdues par agent de la SNCF depuis 1947
+
+## 6. Nombre de journées perdues par agent cumulées à la SNCF entre 1947 et 2021
